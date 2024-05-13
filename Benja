@@ -1,0 +1,10 @@
+Git config --global user.name "BenjaAlon"
+Git config --global user.email "Benjaalonso08@hotmail.com"
+Git init 
+Git add "Prueba"
+Git commit -m "Punto1"
+Git switch 
+Git add "Pruebacambio1"
+Git commit "Punto2"
+Git switch
+Git merge
